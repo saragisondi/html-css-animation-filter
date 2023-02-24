@@ -48,3 +48,7 @@
 .ex-6-img:hover{
   filter:greyscale(100%);
 }
+
+.ex-7-img{
+  filter:greyscale(20px) blur(20px);
+  }
