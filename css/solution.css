@@ -11,5 +11,15 @@
 }
 
 .ex-2-square:active{
-  width: 100px;
+  width: 300px;
+  height:100px;
 }
+
+.ex-3-square{
+  transition: 5s;
+}
+
+.ex-3-square:hover{
+  border-radius: 100px;
+}
+
