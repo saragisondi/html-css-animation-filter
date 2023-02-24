@@ -49,6 +49,11 @@
   filter:greyscale(100%);
 }
 
-.ex-7-img{
+.ex-7-img:hover{
   filter:greyscale(20px) blur(20px);
+  }
+
+  .ex-8-img:hover{
+    filter:greyscale(20px) blur(20px);
+    border-radius:10px;
   }
