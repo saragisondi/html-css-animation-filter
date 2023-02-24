@@ -6,3 +6,10 @@
     background-color: red;
 }
 
+.ex-2-square{
+  transition: width 2s;
+}
+
+.ex-2-square:active{
+  width: 100px;
+}
