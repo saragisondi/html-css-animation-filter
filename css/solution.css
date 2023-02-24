@@ -45,3 +45,6 @@
   height:50px;
 }
 
+.ex-6-img:hover{
+  filter:greyscale(100%);
+}
