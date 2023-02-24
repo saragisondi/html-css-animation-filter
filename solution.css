@@ -46,14 +46,33 @@
 }
 
 .ex-6-img:hover{
-  filter:greyscale(100%);
+  filter:grayscale(100%);
 }
 
 .ex-7-img:hover{
-  filter:greyscale(20px) blur(20px);
+transition: 5s;
+}
+
+.ex-7-img:hover{
+  filter:grayscale(20px) blur(20px);
   }
 
+.ex-8-img:hover{
+  transition: 5s;
+}
+
   .ex-8-img:hover{
-    filter:greyscale(20px) blur(20px);
+    filter:grayscale(20px) blur(20px);
     border-radius:10px;
+  }
+
+  .ex-9-img{
+    transition:5s;
+  }
+
+
+  .ex-9-img{
+    filter:grayscale(20px) blur(20px);
+    border-radius:10px;
+    transform: scale(2);
   }
