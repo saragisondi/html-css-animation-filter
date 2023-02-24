@@ -76,3 +76,12 @@ transition: 5s;
     border-radius:10px;
     transform: scale(2);
   }
+
+  .ex-10-icon {
+    animation: spin 1s linear infinite;
+}
+@keyframes spin {
+    0% {
+        transform: rotate(1turn);
+    }
+}
