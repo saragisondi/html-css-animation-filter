@@ -54,7 +54,7 @@ transition: 5s;
 }
 
 .ex-7-img:hover{
-  filter:grayscale(20px) blur(20px);
+  filter:grayscale(.5) blur(.6);
   }
 
 .ex-8-img:hover{
@@ -62,7 +62,7 @@ transition: 5s;
 }
 
   .ex-8-img:hover{
-    filter:grayscale(20px) blur(20px);
+    filter:grayscale(.5) blur(.6);
     border-radius:10px;
   }
 
